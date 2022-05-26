@@ -1,9 +1,9 @@
 Algoritmo "validacao_senha"
 //
 //
-// Descrição   : valida se senha e nome de usuario sao corretos
-// Autor(a)    : Giuliano García
-// Data atual  : 02/05/2022
+// DescriÃ§Ã£o   : valida se senha e nome de usuario sao corretos
+// Autor(a)    : Wendel Duarte
+// Data atual  : 26/05/2022
 Var
  nome,x:caractere
  senha:inteiro
@@ -40,7 +40,7 @@ Inicio
 
 
 Fimalgoritmo
-© 2022 GitHub, Inc.
+Â© 2022 GitHub, Inc.
 Terms
 Privacy
 Security
