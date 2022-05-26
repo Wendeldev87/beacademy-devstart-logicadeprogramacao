@@ -4,9 +4,11 @@ Var
    operacao : CARACTERE
    resultado : REAL
 inicio
-      ESCREVA("Digite o primeiro n�mero: ")
+      ESCREVA("Digite o primeiro número: ")
       LEIA(numero1)
-      ESCREVA("Digite o segundo n�mero: ")
+      ESCREVA ("Digite a operação:")
+      LEIA (operacao)
+      ESCREVA("Digite o segundo número: ")
       LEIA(numero2)
       ESCOLHA operacao
        CASO "+"
@@ -16,5 +18,9 @@ inicio
          OUTROCASO
           resutado:= -1
           FIMESCOLHA
-          ESCREVA("Resultado: ".resultado)
+          se (resultado= -1) entao
+          ESCREVA("Operação inválida!  Escolha + ou - ")
+        senao
+            ESCREVA("Resultado: ", resultado)
+        fimse
 Fimalgoritmo
