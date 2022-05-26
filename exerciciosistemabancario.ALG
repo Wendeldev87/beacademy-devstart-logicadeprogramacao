@@ -1,6 +1,6 @@
-algoritmo "BANCO RENOVA«√O"
+algoritmo "BANCO RENOVA√á√ÉO"
 
-// Autor :WENDEL - ALUNO PAYLIVRE BE ACADEMY(GV)
+// Autor :WENDEL - ALUNO PAYLIVRE BEACADEMY(GV)
 
 
 var
@@ -27,15 +27,15 @@ j <- j + 1
 repita
 limpatela
 escreval("BANCO UNIVALE")
-escreval //esse escreval È para soltar uma linha
-escreval("SEU SALDO ATUAL … DE: ", saldo)
+escreval //esse escreval √© para soltar uma linha
+escreval("SEU SALDO ATUAL √â DE: ", saldo)
 escreval
 escreval(" 1 - Saque")
 escreval(" 2 - Deposito")
 escreval(" 3 - Transferencia")
 escreval(" 4 - Imprimir Extrato")
 escreval(" 9 - SAIR")
-escreval ("POR FAVOR DIGITE UMA DAS OP«’ES!")
+escreval ("POR FAVOR DIGITE UMA DAS OP√á√ïES!")
 leia(op)
 
 escolha op
@@ -43,8 +43,8 @@ caso "1"
 escreval("DIGITE O VALOR DO SAQUE ")
 leia(valor)
 se valor > saldo entao
-escreval("SAQUE IMPOSSÕVEL POR FALTA DE SALDO; ")
-escreva ("APERTE ENTER PARA NOVA OP«√O!")
+escreval("SAQUE IMPOSS√çVEL POR FALTA DE SALDO; ")
+escreva ("APERTE ENTER PARA NOVA OP√á√ÉO!")
 senao
 saldo <- saldo - valor
 
@@ -54,17 +54,17 @@ ext2[j] <- valor
 ext3[j] <- saldo
 j <- j + 1
 // Final
-escreva ("SAQUE REALIZADO, APERTE ENTER PARA NOVA OP«√O!")
+escreva ("SAQUE REALIZADO, APERTE ENTER PARA NOVA OP√á√ÉO!")
 
 fimse
 leia(parada)
 
 caso "2"
-escreval("DIGITE O VALOR DO DEP”SITO ")
+escreval("DIGITE O VALOR DO DEP√ìSITO ")
 leia(valor)
 se valor <= 0 entao
-escreval(" DEP”SITO IMPOSSÕVEL")
-escreva ("APERTE ENTER PARA NOVA OP«√O!")
+escreval(" DEP√ìSITO IMPOSS√çVEL")
+escreva ("APERTE ENTER PARA NOVA OP√á√ÉO!")
 senao
 saldo <- saldo + valor
 
@@ -74,18 +74,18 @@ ext2[j] <- valor
 ext3[j] <- saldo
 j <- j + 1
 // Final
-escreval ("DEP”SITO REALIZADO, APERTE ENTER PARA NOVA OP«√O!")
+escreval ("DEP√ìSITO REALIZADO, APERTE ENTER PARA NOVA OP√á√ÉO!")
 
 fimse
 leia(parada)
 
 
 caso "3"
-escreval("DIGITE O VALOR DA TRANSFER NCIA")
+escreval("DIGITE O VALOR DA TRANSFER√äNCIA")
 leia(valor)
 se valor > saldo entao
-escreval("SAQUE IMPOSSÕVEL POR FALTA DE SALDO")
-escreva ("APERTE ENTER PARA NOVA OP«√O!")
+escreval("SAQUE IMPOSS√çVEL POR FALTA DE SALDO")
+escreva ("APERTE ENTER PARA NOVA OP√á√ÉO!")
 senao
 saldo <- saldo - valor
 // Gravar mensagem de extrato
@@ -94,7 +94,7 @@ ext2[j] <- valor
 ext3[j] <- saldo
 j <- j + 1
 // Final
-escreva ("TRANSFER NCIA REALIZADA, APERTE ENTER PARA NOVA OP«√O!")
+escreva ("TRANSFER√äNCIA REALIZADA, APERTE ENTER PARA NOVA OP√á√ÉO!")
 fimse
 leia(parada)
 
@@ -109,7 +109,7 @@ escreval(ext3[i])
 
 fimse
 fimpara
-escreva ("APERTE ENTER PARA NOVA OP«√O")
+escreva ("APERTE ENTER PARA NOVA OP√á√ÉO")
 leia(parada)
 
 fimescolha
