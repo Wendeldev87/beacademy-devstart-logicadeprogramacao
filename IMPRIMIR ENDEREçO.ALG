@@ -1,5 +1,5 @@
-Algoritmo "imprimir endereço"
-// Disciplina   : [Linguagem e Lógica de Programação] 
+Algoritmo "imprimir nome"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
 // Professor   : Antonio Carlos Nicolodi 
 
 Var  nome : caractere
