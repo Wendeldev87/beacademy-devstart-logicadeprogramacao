@@ -29,7 +29,7 @@ Inicio
                escreval("Digite sua senha: ")
                leia (senha)
 
-               se((nome ="Clara") e (senha = 2658))entao
+               se((nome ="Clara") e (senha = 2542))entao
                         x <- "verdadeiro"
                         escreval("Seja bem-vindo")
                senao
