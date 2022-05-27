@@ -1,5 +1,5 @@
 Algoritmo "Area_Perimetro_Triangulo"
-// Disciplina   : [Linguagem e Lógica de Programação] 
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
 // Professor   : Antonio Carlos Nicolodi 
 
 
@@ -19,12 +19,12 @@ leia(lado)
 
 Escreval// Pular linha
 
-area <- base * altura
+area <- base * altura / 2
 perimetro <- (lado) + (lado) + (lado)
 
 Escreva(" A area do triangulo e: ", area)
 Escreval // pular linha
-Escreva(" O perímetro do triangulo e: ", perimetro)
+Escreva(" O perÃ­metro do triangulo e: ", perimetro)
 
 Escreva(" Digite o valor do lado: ")
 leia(lado)
@@ -36,7 +36,7 @@ perimetro <- (lado * 4)
 
 Escreva(" A area do quadrado e: ", area)
 Escreval // pular linha
-Escreva(" O perímetro do quadrado e: ", perimetro)
+Escreva(" O perÃ­metro do quadrado e: ", perimetro)
 
 Escreval// Pular linha
  
