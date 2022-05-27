@@ -22,6 +22,10 @@ Exercício 5: Sistema bancário VisuALG.
 
 https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/cb615de6f170d088f1fc583d668e83cc40da38ec/exerciciosistemabancario.ALG
 
+Exercício 6:  Crie um programa que receba do usuário uma figura geométrica que deseja calcular a area e o perímetro.
+
+https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/b58e42b2053e7d9f97f5b8e7178a21c1757a96a4/AREAPERIMETROTRIANGULOEQUADRADO.ALG
+
 
 
 
