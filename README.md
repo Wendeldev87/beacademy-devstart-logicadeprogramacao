@@ -27,8 +27,6 @@ Exercício 6:  Crie um programa que receba do usuário uma figura geométrica qu
 https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/b58e42b2053e7d9f97f5b8e7178a21c1757a96a4/AREAPERIMETROTRIANGULOEQUADRADO.ALG
 
 
-
-
 Exercício 7: Escreva um laço de repetição que mostre na tela 10 numeros usando o laço de repetição FOR.
 
 https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/70cd10b6dc238265a701861587deabc7b6aac3b9/exerciciocomafuncaofor.c
@@ -41,6 +39,13 @@ https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/70cd1
 Exercício 10: Simulador de Banco com Operações de Saque, Depósito e Transferência Utilizando Estrutura 'Escolha Caso'.
 
 https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/5c9e20405957542177d2673d14da83f3595f0b03/EXERCICIO10.ALG
+
+
+Exercício 12: Tipos de IMC
+
+https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/6a4cbe737b79e89e33b69e5b836ae2ef6c06883e/TIPOS%20DE%20IMC.ALG
+
+
 
 
 
@@ -58,6 +63,11 @@ https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/675df
 Exercício 18: // crie um programa que realize as 4 operações matemáticas a partir de 2 numeros digitados pelo usurario, Após isso imprima os valores na tela e pergunte se ele quer realizar outra operação, repetindo enquanto ele quiser continuar .
 
 https://github.com/Wendeldev87/beacademy-devstart-logicadeprogramacao/blob/c1fb375e541cae7da02ebe4719fe09cc2689fca4/exerc%C3%ADcio18.ALG
+
+
+Exercício 20
+
+https://github.com/ErikMacedo/beacademy-devstart-logicadeprogramacao/blob/d3d5991737e25575a288dbe8a096d6b345e8acd3/Exercicio%2020.ALG
 
 
 
